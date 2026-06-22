@@ -8,6 +8,7 @@
 
 ### About me
 
+- Trained application developer (Fachinformatiker, Anwendungsentwicklung).
 - Over a year developing for a FiveM server with up to 200 players.
 - I develop for the ESX framework and build resources from the ground up.
 - I work with Lua for the game logic and React with JavaScript for NUI.
